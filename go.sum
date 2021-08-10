@@ -1,0 +1,4 @@
+github.com/dependabot-fixtures/go-modules-private v0.0.1 h1:MU3S0sPU4j7ESrXQs2KfwkZeK/q3EJ5N99/q6K7XclY=
+github.com/dependabot-fixtures/go-modules-private v0.0.1/go.mod h1:jnHGqU8zbsBkDWteCic36yWdpPF3EpBItjVGtGvQrzs=
+github.com/dependabot-fixtures/go-modules-private-dependency v0.0.1 h1:Po911ET4Zlyran2jEoUNeVZK3JQcFCUjtBoQuYs7064=
+github.com/dependabot-fixtures/go-modules-private-dependency v0.0.1/go.mod h1:EmHdDu1pZpwLAqe6tVFx0TQ5yw7kKj8aJ5zPVmwB7Wg=
